@@ -6,16 +6,18 @@ author_profile: true
 
 ## Organization committee
 
-- Jérémie Bec
-- Christophe Brouzet
-- Giorgio Krstulovic
-- Simon Thalabard
-- Dario Vincenzi
+- Jean-Baptiste Filippi
+- Jean-François Muzy
+- Christophe Paoli
+- Roberta Baggio
+- Alberto Alonso Pinar
 
 ## Contact
 
-Any inquiry, please write to *school.turbazur\<AT\>univ-cotedazur.fr*
+Any inquiry, please write to *filippi_j\<AT\>univ-corse.fr*
 
 ## Sponsors
 
-<img src="{{ site.baseurl }}/images/logo_uca.png" alt="Université de Corse" style="height: 100px" > 
+<!---
+ <img src="{{ site.baseurl }}/images/logo_uca.png" alt="Université de Corse" style="height: 100px" > 
+-->
