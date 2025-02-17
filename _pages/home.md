@@ -1,28 +1,26 @@
 ---
 permalink: /
-title: "Bridges over turbulent matters"
+title: "Numerical wildfire and AI Weather"
 author_profile: true
 redirect_from: 
   - /scope/
   - /scope.html
 ---
-# Navigating across observations, concepts and models
+# Numerical Wildfire and AI Weather 2025
 
-## Fall school in turbulence: October 21 - 31, 2025
+## Workshop : 03/11/2025 - 07/11/2025
 
 ##  [Institut d’Études scientifiques de Cargèse](https://iesc.universita.corsica/?lang=en){:target="_blank"} ,  Corsica, France
 
-The school aims to highlight bridges between the various facets of contemporary research on turbulence. from mathematical fluids to experiments, from phenomenology to stochastic physics. It is the second edition of a biennial series of interdisciplinary schools focused on the fundamental aspects of turbulence, encompassing fields such as mathematics, physics, engineering, astronomy, and geophysics.
-The [first edition](https://univ-cotedazur.eu/events/turbulence-semester/summer-school) was held in Porquerolles in June 2023.
+The Numerical Wildfire 2021 workshop is specifically focused on large wildfire events and extreme weather events, gathering scientists to synthesize approaches that can provide pragmatic answers to current problems with tools that can be made available rapidly- i.e. within 1-2 years - to decision makers.
+The [previous edition](https://firecaster.universita.corsica/article/numerical-wildfire-2021/36/0/0/0/3435/fr) was held in November 2021.
 
-Mornings will be devoted to minicourses delivered by lecturers from the mathematics and the physics community, organised into three topical bridges seeking to connect:
+Mornings will start by a plenary session acting as an introduction for the following talks. Some topics that will be covered are:
 
-- Phenomenology and Functional Spaces
+- Wildfire dynamics and coupled fire-atmosphere models
 
-- Lagrangian Particles and Eulerian Fields
+- Numerical models and experimental data
 
-- Waves and Turbulent Disorders
+- Artificial intelligence and risk forecasts
 
-In the afternoons, participants will be offered to work in small groups on original research projects supervised by guest and local researchers.
-
-
+In the afternoons, 30 minutes talks will be given on the topic introduced in the morning. Large break times are organized 
