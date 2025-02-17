@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bridges over turbulent matters"
+title                    : "Numerical Wildfire and AI Weather"
 title_separator          : "-"
 name                     : 
 description              :  
-url                      : https://turbazur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://forefireapi.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "turbazur/cargese2025"
+repository               : "forefireapi/cargese2025"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -51,9 +51,9 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "Fall School in Turbulence"
+  name             : "Workshop in Numerical Wildfires and AI Weather"
   avatar           : "profile.jpg"
-  bio              : "October 21-31, 2025"
+  bio              : "November 03-07, 2025"
   location         : "Cargèse, Corsica, France"
 
 # Reading Files
