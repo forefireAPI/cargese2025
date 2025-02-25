@@ -11,6 +11,7 @@ author_profile: true
 - Christophe Paoli
 - Roberta Baggio
 - Alberto Alonso Pinar
+- Laure Raynaud
 
 ## Contact
 
