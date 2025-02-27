@@ -67,7 +67,6 @@ Description to be completed.
 **Session 6 : Forecasting methods** *(Chair: ?)*  
 Description to be completed.
 👥 **Speakers :**  
-- **Baudoin Raoult** - Principal Technical Advisor AI, *ECMWF*
 - **Jean-François Muzy** - Directeur de recherche, *SPE / CNRS*
 - **Laura Raynaud** – Researcher , *CNRM*
 - **P4** – TBD  
