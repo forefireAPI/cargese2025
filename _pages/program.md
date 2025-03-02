@@ -26,8 +26,8 @@ This session intends to explore how current numerical models and experimental me
 This session will be focused on discussing experimental protocols and tools that can be used to verify and validate numerical models. Talks can involve a single or both aspects (experimental and numerical).
 
 **Speakers :**  
-- [T. Gianniros](https://tmgiannaros.github.io/) – Atmospheric modeler, *National Observatory of Athens*
-- [A. Guyot](https://environment.uq.edu.au/profile/19413/adrien-guyot) – Senior research fellow, *Bureau of Meteorology / The University of Queensland* 
+- Theodore Gianniros – Atmospheric modeler, *National Observatory of Athens*
+- Adrien Guyot – Senior research fellow, *Bureau of Meteorology / The University of Queensland* 
 - **P3** – TBD
 - **P4** – TBD  
 - **P5** – TBD
@@ -44,7 +44,7 @@ Modern and current ways of forecasting wildfires and climate risks.
 - 10:00 - 10:30 **Roberta Baggio** – Postdoctoral researcher, *SPE / CNRS* : Neural Networks for RoS emulation
 - 10:30 - 11:00 [Romain Thoreau](https://www.romain-thoreau.com/) - Postdoctoral researcher, *CNES* : tbd
 - 11:00 - 11:30 - TBD  
-- 11:30 - 12:00 - TBD  
+- 11:30 - 12:00 - TBD
 
 ---
 
