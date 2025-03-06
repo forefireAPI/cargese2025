@@ -1,12 +1,11 @@
 ---
 permalink: /participants/
-title: "Confirmed plenary lecturers"
+title: "Confirmed lecturers"
 author_profile: true
 ---
 
 - [Craig Clements](https://www.sjsu.edu/people/craig.clements/), Professor in meteorology, Director of the *Fire Weather Research Laboratory, San José State University*
 - Laure Raynaud, Researcher at  *National Center for Meteorological Research, Météo-France*
-- Andrew Sullivan, Head of fire behavior research, *CSIRO (Commonwealth Scientific and Industrial Research Organisation)*
 - [Adrien Guyot](https://environment.uq.edu.au/profile/19413/adrien-guyot), Researcher in fire plume instrumentation, *University of Queensland / Google.org / Bureau of Meteorology*
 - Mika Peace, Meteorologist and fire dynamics Researcher, *Bureau of Meteorology*
 - Alexander Filkov, Researcher in wildfire behavior, *University of Melbourne*

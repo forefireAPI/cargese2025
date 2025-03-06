@@ -3,12 +3,37 @@ permalink: /program/
 title: "Program"
 author_profile: true
 ---
+## Monday 03/11 : Modelling and Experimental Data
+
+**Session 1 : Large wildfires and Extreme fire behaviour** *(Chair: J.B. Filippi)*  
+This session intends to explore how current numerical models and experimental methodologies can be used to analyze large wildfires and extreme fire behaviour events (tornados, spotting, deep pyroconvection etc).
+### Morning
+- **9h00**  - Plenary session Opening
+- **10h00**  - Cofee break
+- **10h15**  - Talk 
+- **10h45**  - Talk 
+- **11h15**  - Talk
+- **12h00**  - lunch
+
+**12h00 - 15h00 **  - Free/Working sessions
+
+**Session 32 : Analysis and validation of field experiment data** *(Chair: R.Paugam)*  
+This session intends to explore how current numerical models and experimental methodologies can be used to analyze large wildfires and extreme fire behaviour events (tornados, spotting, deep pyroconvection etc).
+**Speakers :**  
+- **15h00** – Cofee Break
+- **15h30** – Talk
+- **16h00** – Talk
+- **16h30** – Talk
+- **17h00** – Talk
+- **17h30** – Talk
+
+---
 
 ## Tuesday 04/11 : Modelling and Experimental Data
 
 ### Morning
 **9h00 - 12h00**  
-**Session 2 : Large wildfires and Extreme fire behaviour** *(Chair: ?)*  
+**Session 2 : Large wildfires and Extreme fire behaviour** *(Chair: J.B. Filippi)*  
 This session intends to explore how current numerical models and experimental methodologies can be used to analyze large wildfires and extreme fire behaviour events (tornados, spotting, deep pyroconvection etc).
 
 **Speakers :**  
@@ -22,7 +47,7 @@ This session intends to explore how current numerical models and experimental me
 
 ### Afternoon
 **16h00 - 18h30**  
-**Session 3 : Analysis and validation of field experiment data** *(Chair: ?)*  
+**Session 3 : Analysis and validation of field experiment data** *(Chair: R.Paugam)*  
 This session will be focused on discussing experimental protocols and tools that can be used to verify and validate numerical models. Talks can involve a single or both aspects (experimental and numerical).
 
 **Speakers :**  
@@ -36,11 +61,11 @@ This session will be focused on discussing experimental protocols and tools that
 
 ### Morning
 **9h00 - 12h00**  
-**Session 4 : AI applications** *(Chair: ?)*  
+**Session 4 : AI applications** *(Chair: J.F. Muzy)*  
 Modern and current ways of forecasting wildfires and climate risks.
 
 **Speakers :**  
-- 9:00 - 10:00 **Jean-Christophe Calvet** and **Yann Baehr** : AI and wildfires (Plenary session)
+- 9:00 - 10:00 **Jean-Christophe Calvet** and **Yann Baehr** : (Plenary session)
 - 10:00 - 10:30 **Roberta Baggio** – Postdoctoral researcher, *SPE / CNRS* : Neural Networks for RoS emulation
 - 10:30 - 11:00 [Romain Thoreau](https://www.romain-thoreau.com/) - Postdoctoral researcher, *CNES* : tbd
 - 11:00 - 11:30 - TBD  
