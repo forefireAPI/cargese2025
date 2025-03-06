@@ -11,15 +11,23 @@ redirect_from:
 
 ##  [Institut d’Études scientifiques de Cargèse](https://iesc.universita.corsica/?lang=en){:target="_blank"} ,  Corsica, France
 
-The Numerical Wildfire 2025 workshop is specifically focused on large wildfire events and extreme weather events, gathering scientists to synthesize approaches that can provide pragmatic answers to current problems with tools that can be made available rapidly- i.e. within 1-2 years - to decision makers.
-The [previous edition](https://firecaster.universita.corsica/article/numerical-wildfire-2021/36/0/0/0/3435/fr) was held in November 2021.
+# Numerical Wildfire and AI Weather2025
 
-Mornings will start by a plenary session acting as an introduction for the following talks. Some topics that will be covered are:
+**Numerical Wildfire and AI Weather** is a small, high-level scientific workshop bringing together leading experts in **weather AI, numerical wildfire forecasting, and fire-atmosphere interactions**. The workshop is designed as an **intensive, on-site event**. Unlike large conferences, this **small-group format** allows for extended scientific exchanges, joint project work, and a strong interdisciplinary approach. The goal is to bridge the gap between cutting-edge research and operational needs by focusing on **real-world applications of AI, numerical modeling, and risk assessment**.
+The first two days will focus on **wildfire science**, exploring fire-atmosphere interactions, numerical fire spread models, and operational forecasting challenges. Experts will discuss the latest advancements in **fire behavior prediction, risk assessment, and real-time monitoring**.  
+The next two days will shift towards **AI-driven forecasting of extreme weather events**, with sessions on **machine learning, neural networks, and data assimilation** for high-impact meteorological phenomena. Topics include **AI-enhanced numerical weather prediction, uncertainty quantification, and applications for emergency response**.  
+The final day will synthesize findings and make contact with practitioners in France and Corsica, promoting interdisciplinary collaboration and defining future research directions. 
 
-- Wildfire dynamics and coupled fire-atmosphere models
+### 🔥 **Key Topics:**
+- Coupling fire dynamics with high-resolution weather models  
+- AI-driven forecasting for wildfire behavior and extreme weather events  
+- Physics-based and data-driven fire propagation models  
+- Risk analysis and hazard mapping for fire-prone regions  
+- Uncertainty quantification and ensemble forecasting for wildfires  
+- Real-time fire monitoring and prediction systems  
+- Machine learning approaches for wildfire data assimilation  
+- Wildfire resilience strategies for urban and peri-urban environments  
+- Operational decision support systems for emergency response  
+- Impact of climate change on wildfire behavior and frequency  
+- Integration of AI with traditional numerical weather prediction models  
 
-- Numerical models and experimental data
-
-- Artificial intelligence and risk forecasts
-
-In the afternoons, 30 minutes talks will be given on the topic introduced in the morning. Large break times are organized to foster discussions and collaborations.
