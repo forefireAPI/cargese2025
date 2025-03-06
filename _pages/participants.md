@@ -13,9 +13,16 @@ author_profile: true
 - Ronan Paugam, Researcher in atmospheric and wildfire modeling, *Polytechnic University of Catalonia*
 - Romain Thoreau, Researcher in artificial intelligence for wildfires, *CNES*
 - [Theodore Gianniros](https://tmgiannaros.github.io/), Fire meteorologist, *National Observatory of Athens*
+- Anthony Graziani, Postdoctoral researcher, SPE/Université de Corse*
+- Roberta Baggio, Postdoctoral researcher, SPE/Université de Corse*
 - Julia Garcia Cristobal, PhD candidate in hectometric downscaling AI, *CNRM*
-- Jean-Christophe Calvet & Yann Baehr, Researchers in modeling, land surfaces, and wildfires, *CNRM*
+- Jean-Christophe Calvet Senior Researcher *CNRM*
+- Yann Baehr, PhD candidate, *CNRM*
+- Sylvain Cros, Senior Researcher, *LMD Polytechnique*
+- David Landry, PhD candidate, *INRIA Paris, INRIA*
+- Federico Grazzini, Researcher and Meteorologist, *LMU München / Arpae Emilia-Romagna* 
+- Kilian Pujol** - PhD Candidate, *LAERO* 
 - Agathe Gentric, PhD candidate in AI-based Fog Prediction, *CNRM*
-- Robin Marcille, Researcher in AI-based forecasting, *France Energy Marine*
-- Sylvain Cros, Researcher in solar energy forecasting & AI, *LMD Polytechnique*
-- David Landry, PhD candidate in AI for weather & climate, *INRIA Paris, INRIA*
+- Robin Marcille, Researcher , *France Energy Marine*
+- Diego Grante - PhD Candidate, *SPE*
+
