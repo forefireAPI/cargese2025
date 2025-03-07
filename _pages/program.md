@@ -34,7 +34,7 @@ This session will address the latest developments and numerical challenges in wi
 This session intends to explore how current numerical models and experimental methodologies can be used to analyze large wildfires and extreme fire behaviour events (tornados, spotting, deep pyroconvection etc).
 
 **Keynote speakers :**  
-- **Mark Finney** - Senior Scientist and Research Forester *US Forest Service*
+- **P1** 
 - **P2**
 
 ---
