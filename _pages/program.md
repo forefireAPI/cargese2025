@@ -9,6 +9,7 @@ author_profile: true
 **9h00 - 12h00**  
 **Reception of guests and presentation of the scientific objectives of the conference**
 - Welcome and conference presentation
+
 **Keynote speaker:**  
 - Craig Clements- Professor and director at the Wildfire Interdisciplinary Research Center  *Fire Weather Research Laboratory San José State University*
 
@@ -58,7 +59,7 @@ This session will be focused on  experimental protocols and tools that can be us
 **Session 4 : AI approaches for wildfire prediction** *(Chair: ?)*  
 The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.
 
-**Keynote speaker :**  
+**Keynote speakers :**  
 - **Jean-Christophe Calvet** - Senior Researcher *CNRM* - and **Yann Baehr** -PhD candidate *CNRM*
 
 **Speakers :**  
@@ -90,7 +91,9 @@ This session will focus on recent applications of AI and research perspectives r
 ### Morning
 **9h00 - 12h00**  
 **Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
-This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting. **Speakers :**  
+This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.
+
+**Speakers :**  
 - **Laure Raynaud** – Researcher , *CNRM* : AI and weather.
 - (TBC) **Sebastian Lerch** 
 - **David Landry** – PhD Candidate , *INRIA Paris* : AI & Environmental Forecasting, Presentation of the ARCHEA team's Activities at INRIA.
@@ -100,7 +103,9 @@ This session aims to provide a global perspective on the recent rise of AI metho
 ### Afternoon
 **16h00 - 19h00**  
 **Session 7 : Weather downscaling and nowcasting** *(Chair: ?)*  
-This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data.**Keynote speaker :**  
+This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data.
+
+**Keynote speaker :**  
 - **Sylvain Cros** - Senior Researcher, *LMD Polytechnique* : Cloud coverage nowcasting
 
 **Speakers :**  
@@ -115,6 +120,7 @@ This session will explore some recent and on-going applications of AI in nowcast
 **9h00 - 10h00**  
 **Session 8 Presentation of CNRS expert missions MPES:**
 Description to be completed.
+
 **Speakers :**  
 - **Valérie Lallemand-Breittenbach** - Director of the Mission for Scientific Expertise, *CNRS*
 - **Christine Bouisset** -  Associate Professor, *Université de Pau*
