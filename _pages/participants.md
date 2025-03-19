@@ -21,8 +21,7 @@ author_profile: true
 - Sylvain Cros, Senior Researcher, *LMD Polytechnique*
 - David Landry, PhD candidate, *INRIA Paris, INRIA*
 - Federico Grazzini, Researcher and Meteorologist, *LMU München / Arpae Emilia-Romagna* 
-- Kilian Pujol** - PhD Candidate, *LAERO* 
+- Kilian Pujol - PhD Candidate, *LAERO* 
 - Agathe Gentric, PhD candidate in AI-based Fog Prediction, *CNRM*
 - Robin Marcille, Researcher , *France Energy Marine*
 - Diego Grante - PhD Candidate, *SPE*
-
