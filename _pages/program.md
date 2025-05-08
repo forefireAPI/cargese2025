@@ -93,9 +93,11 @@ This session will focus on recent applications of AI and research perspectives r
 **Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
 This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.
 
-**Speakers :**  
+**Keynote speakers  :**  
 - **Laure Raynaud** – Researcher , *CNRM* : AI and weather.
-- (TBC) **Sebastian Lerch** 
+- (TBC) **Sebastian Lerch**
+
+**Speakers :**  
 - **David Landry** – PhD Candidate , *INRIA Paris* : AI & Environmental Forecasting, Presentation of the ARCHEA team's Activities at INRIA.
 
 ---
