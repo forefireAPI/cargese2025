@@ -10,8 +10,8 @@ author_profile: true
 - Mika Peace, Meteorologist and fire dynamics Researcher, *Bureau of Meteorology*
 - Alexander Filkov, Researcher in wildfire behavior, *University of Melbourne*
 - Francesca Di Giuseppe, Head of fire risk prediction systems, *ECMWF (European Centre for Medium-Range Weather Forecasts)*
-- Ronan Paugam, Researcher in atmospheric and wildfire modeling, *Polytechnic University of Catalonia*
-- Romain Thoreau, Researcher in artificial intelligence for wildfires, *CNES*
+- [Ronan Paugam](https://ronanpaugam.github.io/about/), Researcher in atmospheric and wildfire modeling, *Polytechnic University of Catalonia*
+- [Romain Thoreau](https://www.romain-thoreau.com/), Researcher in artificial intelligence for wildfires, *CNES*
 - [Theodore Gianniros](https://tmgiannaros.github.io/), Fire meteorologist, *National Observatory of Athens*
 - Anthony Graziani, Postdoctoral researcher, SPE/Université de Corse*
 - Roberta Baggio, Postdoctoral researcher, SPE/Université de Corse*
