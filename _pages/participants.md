@@ -15,13 +15,13 @@ author_profile: true
 - [Theodore Gianniros](https://tmgiannaros.github.io/), Fire meteorologist, *National Observatory of Athens*
 - Anthony Graziani, Postdoctoral researcher, SPE/Université de Corse*
 - Roberta Baggio, Postdoctoral researcher, SPE/Université de Corse*
-- Julia Garcia Cristobal, PhD candidate in hectometric downscaling AI, *CNRM*
 - Jean-Christophe Calvet Senior Researcher *CNRM*
-- Yann Baehr, PhD candidate, *CNRM*
+- Robin Marcille, Researcher , *France Energy Marine*
 - Sylvain Cros, Senior Researcher, *LMD Polytechnique*
-- David Landry, PhD candidate, *INRIA Paris, INRIA*
 - Federico Grazzini, Researcher and Meteorologist, *LMU München / Arpae Emilia-Romagna* 
+- Julia Garcia Cristobal, PhD candidate in hectometric downscaling AI, *CNRM*
+- Yann Baehr, PhD candidate, *CNRM*
+- David Landry, PhD candidate, *INRIA Paris, INRIA*
 - Kilian Pujol - PhD Candidate, *LAERO* 
 - Agathe Gentric, PhD candidate in AI-based Fog Prediction, *CNRM*
-- Robin Marcille, Researcher , *France Energy Marine*
 - Diego Grante - PhD Candidate, *SPE*
