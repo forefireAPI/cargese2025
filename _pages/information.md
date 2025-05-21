@@ -9,7 +9,7 @@ The workshop will be held at [Institut d'Études Scientifiques de Cargèse (IESC
 It is a small workshop, 50 to 60 people. If you are interested, please register as soon as you can to secure your presence.
 
 ## Fee
-There is no workshop fee, but all participants are lodged on-site at a cost of 350 euros (might be less), covering accommodation (5 nights), breakfasts, lunches, and airport shuttle on Sunday 02/11 and Friday 07/11 November. It does not include dinners and travel expenses. 
+There is no workshop fee, and all participants are lodged on-site at a cost of 350 euros (might be less), covering accommodation (5 nights), breakfasts, lunches, and airport shuttle on Sunday 02/11 and Friday 07/11 November. It does not include dinners and travel expenses. 
 
 ## Applications
 - Pre-registrations are now open until October 1st, 2025
