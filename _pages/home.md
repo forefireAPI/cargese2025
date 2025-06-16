@@ -13,7 +13,7 @@ redirect_from:
 
 # Numerical Wildfire and AI Weather2025
 <center>
-<img src="{{ site.baseurl }}/files/logos.png" alt="logos" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/logos.png" alt="logos" style="height: 100px" >
 </center>
 **Numerical Wildfire and AI Weather** is a small, high-level scientific workshop bringing together leading experts in weather AI, numerical wildfire forecasting, and fire-atmosphere interactions. The workshop is designed as an **intensive, on-site event**. Unlike large conferences, this **small-group format** allows for extended scientific exchanges, joint project work, and a strong interdisciplinary approach. The goal is to bridge the gap between cutting-edge research and operational needs by focusing on **real-world applications of AI, numerical modeling, and risk assessment**.
 
