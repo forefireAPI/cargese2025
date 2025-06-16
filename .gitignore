@@ -1,2 +1,7 @@
 _site/
 
+.DS_Store
+files/ANR.jpg
+files/firereslogo.jpg
+.gitignore
+files/NERO_LOGO.png

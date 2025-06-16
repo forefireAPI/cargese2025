@@ -64,7 +64,7 @@ The session will be dedicated to discussing recent applications and innovations 
 
 **Speakers :**  
 -  **Roberta Baggio** – Postdoctoral researcher, *SPE / CNRS* : Neural Networks for RoS emulation
-- (TBC) **Romain Thoreau** – Postdoctoral researcher, *CNES* : 
+-  **Romain Thoreau** – Postdoctoral researcher, *CNES* : 
 - **P3** TBD  
 - **P4** TBD
 
@@ -72,11 +72,11 @@ The session will be dedicated to discussing recent applications and innovations 
 
 ### Afternoon
 **16h00 - 18h30**  
-**Session 5 : AI for the prevention of extreme events and resource management** *(Chair: ?)*  
+**Session 5 : AI for the prevention of extreme events and resource management** *(Chair: Laure Raynault)*  
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.
 
 **Keynote speaker :**  
-- **Federico Grazzini** - Researcher and Meteorologist, *LMU München / Arpae Emilia-Romagna* : Rainfall prediction
+- **Laure Raynault** - Researcher and Meteorologist, Meteo-France
 
 **Speakers :**  
 - **Robin Marcille** - Researcher, *France Energie Marine* : Prediction of offshore wind data.

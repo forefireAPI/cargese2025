@@ -1,8 +1,8 @@
-## Bridges over turbulent matters: navigating across observations, concepts and models 
+## Wildfire and AI Weather 2025 - 
 
-A Github Page template for the summer school *Bridges over turbulent matters: navigating across observations, concepts and models *, to be held in  *Cargese*   in Oct. 21-31 2025,
+A Github Page template for the workshop  *Wildfire and AI Weather 2025  *, to be held in  *Cargese*   in Nov. 2-8 2025,
 
-latest update: Jan, 2024
+latest update: Jun, 2025
 
 ---
 
