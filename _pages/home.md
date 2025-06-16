@@ -7,14 +7,18 @@ redirect_from:
   - /scope.html
 ---
 
-## Workshop : 03/11/2025 - 07/11/2025
-
-##  [Institut d’Études scientifiques de Cargèse](https://iesc.universita.corsica/?lang=en){:target="_blank"} ,  Corsica, France
-
-# Numerical Wildfire and AI Weather2025
 <center>
 <img src="{{ site.baseurl }}/files/logos.png" alt="logos" style="height: 100px" >
 </center>
+
+## Workshop : 03/11/2025 - 07/11/2025
+
+##  [Institut d’Études scientifiques de Cargèse](https://iesc.universita.corsica/?lang=en){:target="_blank"} ,  Corsica, France
+<center>
+<img src="{{ site.baseurl }}/files/cnrsuniv.png" alt="logos" style="height: 200px" >
+</center>
+# Numerical Wildfire and AI Weather2025
+
 **Numerical Wildfire and AI Weather** is a small, high-level scientific workshop bringing together leading experts in weather AI, numerical wildfire forecasting, and fire-atmosphere interactions. The workshop is designed as an **intensive, on-site event**. Unlike large conferences, this **small-group format** allows for extended scientific exchanges, joint project work, and a strong interdisciplinary approach. The goal is to bridge the gap between cutting-edge research and operational needs by focusing on **real-world applications of AI, numerical modeling, and risk assessment**.
 
 
