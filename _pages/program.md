@@ -76,7 +76,7 @@ The session will be dedicated to discussing recent applications and innovations 
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.
 
 **Keynote speaker :**  
-- **Laure Raynault** - Researcher and Meteorologist, Meteo-France
+- **Cyril Voyant ** - Seniod Researcher in AI methods forecasting methods for renewable energy , Mines-PariTech
 
 **Speakers :**  
 - **Robin Marcille** - Researcher, *France Energie Marine* : Prediction of offshore wind data.
