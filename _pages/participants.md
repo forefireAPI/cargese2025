@@ -17,7 +17,7 @@ author_profile: true
 - Jean-Christophe Calvet Senior Researcher *CNRM*
 - Robin Marcille, Researcher , *France Energy Marine*
 - Sylvain Cros, Senior Researcher, *LMD Polytechnique*
-- Federico Grazzini, Researcher and Meteorologist, *LMU München / Arpae Emilia-Romagna* 
+- Cyril Voyant, Senior Researcher in Renewable Energy and AI forecasting, *Mines Paritech / PSL* 
 - Julia Garcia Cristobal, PhD candidate in hectometric downscaling AI, *CNRM*
 - Yann Baehr, PhD candidate, *CNRM*
 - David Landry, PhD candidate, *INRIA Paris, INRIA*
