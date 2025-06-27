@@ -47,15 +47,14 @@ The next two days will shift towards **AI-driven forecasting of extreme weather 
 The final day (morning) will synthesize findings and make contact with practitioners in France and Corsica.
 
 ### 🔥 **Key Topics:**
-- Coupling fire dynamics with high-resolution weather models  
-- AI-driven forecasting for wildfire behavior and extreme weather events  
-- Physics-based and data-driven fire propagation models  
-- Risk analysis and hazard mapping for fire-prone regions  
+- Fire propagation modeling and fire-atmosphere coupling
+- AI applications for wildfire and extreme weather events prediction   
+- AI  methods for weather forecasting and downscaling  
+- Data-driven applications for renewable energy production
+- AI  approaches for wildfire data assimilation  
 - Uncertainty quantification and ensemble forecasting for wildfires  
-- Real-time fire monitoring and prediction systems  
-- Machine learning approaches for wildfire data assimilation  
-- Wildfire resilience strategies for urban and peri-urban environments  
+- Real-time monitoring and prediction systems  
+- Risk analysis and hazard mapping  
 - Operational decision support systems for emergency response  
-- Impact of climate change on wildfire behavior and frequency  
-- Integration of AI with traditional numerical weather prediction models  
+- Wildfire resilience strategies for urban and peri-urban environments  
 

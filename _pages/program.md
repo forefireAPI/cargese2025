@@ -1,6 +1,6 @@
 ---
 permalink: /program/
-title: "Program"
+title: "Provisional Program"
 author_profile: true
 ---
 ## Monday 03/11 : Coupled wildfire-atmosphere  dynamics
@@ -17,7 +17,7 @@ author_profile: true
 ### Afternoon
 **16h00 - 18h30**  
 **Session 1 : Fire dynamics and fire-atmosphere coupling** *(Chair: ?)*  
-This session will address the latest developments and numerical challenges in wildfire-atmosphere coupled models.
+This session will address the latest developments and numerical challenges in wildfire and wildfire-atmosphere coupled models.
 
 **Speakers :**  
 - **Mika Peace** – Meteorologist and researcher in fire dynamics, *Bureau of Meteorology*
@@ -35,16 +35,15 @@ This session will address the latest developments and numerical challenges in wi
 This session intends to explore how current numerical models and experimental methodologies can be used to analyze large wildfires and extreme fire behaviour events (tornados, spotting, deep pyroconvection etc).
 
 **Speakers :**  
-- **P1** 
-- **P2**
+- **P1** TBD
+- **P2** TBD
 
 ---
 
 ### Afternoon
 **16h00 - 18h30**  
-**Session 3 : Analysis and validation of field experiment data** *(Chair: ?)*  
-This session will be focused on  experimental protocols and tools that can be used to verify and validate numerical models. Talks can involve a single or both aspects (experimental and numerical).
-
+**Session 3 : Analysis and validation of experimental data** *(Chair: ?)*  
+This session will be focused on  experimental protocols and tools that can be used to verify and validate numerical models.
 **Speakers :**  
 - **Theodore Gianniros** – Atmospheric modeler, *National Observatory of Athens*
 - **Adrien Guyot** – Senior research fellow, *Bureau of Meteorology / The University of Queensland* 
@@ -79,8 +78,8 @@ This session will focus on recent applications of AI and research perspectives r
 - **Cyril Voyant ** - Seniod Researcher in AI methods forecasting methods for renewable energy , Mines-PariTech
 
 **Speakers :**  
-- **Robin Marcille** - Researcher, *France Energie Marine* : Prediction of offshore wind data.
 - **Kilian Pujol** - PhD Candidate, *LAERO* : AI models for rainfall and wind prediction.
+-  **P2** TBD
 -  **P3** TBD
 -  **P4** TBD
 -  **P5** TBD
@@ -95,7 +94,7 @@ This session aims to provide a global perspective on the recent rise of AI metho
 
 **Keynote speakers  :**  
 - **Laure Raynaud** – Researcher , *CNRM* : AI and weather.
-- (TBC) **Sebastian Lerch**
+- **P2** TBD
 
 **Speakers :**  
 - **David Landry** – PhD Candidate , *INRIA Paris* : AI & Environmental Forecasting, Presentation of the ARCHEA team's Activities at INRIA.
@@ -112,9 +111,9 @@ This session will explore some recent and on-going applications of AI in nowcast
 
 **Speakers :**  
 - **Julia Garcia-Cristobal** - PhD Candidate, *CNRM* : AI and hectometric downscaling
-- **Agathe Gentric** - PhD Candidate, *CNRM* : AI to forecast fog in airports
 - **Diego Grante** - PhD Candidate, *SPE* : AI for renewable energy forecasting
-- **P4**
+- **P3** TBD
+- **P4** TBD
 
 ## Friday 07/11: Urban resilience and perspectives
 
