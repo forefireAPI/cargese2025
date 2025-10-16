@@ -84,24 +84,18 @@ author_profile: true
 - P3
 - P4
 - P5
-## Wednesday 05/11: Artificial Intelligence for Wildfire and Risk Forecasting
+## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
 ### Morning
 **9h00 - 12h00**  
 <!--**Session 4 : AI approaches for wildfire prediction** *(Chair: ?)*  
  The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.-->
 
--   **Jean-Christophe Calvet**, <small>CNRM</small>    
+- 9:00-10:30   **Jean-Christophe Calvet**, <small>CNRM</small>    
     *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
--   **Yann Baehr**, <small>CNRM</small>     
+- 10:35-11:15   **Yann Baehr**, <small>CNRM</small>     
     *Using artificial intelligence to monitor live fuel moisture content across France, based on a high resolution land surface analysis*
--   **Romain Thoreau**  <small>CNES</small>   
-    *TBA* 
--   **Dominik Laux**, <small>OroraTech GmbH</small>     
-    *FIRE-AID: AI-powered fire spread modeling and decision support*
--   **Karlee Zammit**,  <small>Natural Resources Canada</small>   
-    *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
--   **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
+- 11:20-12:00 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
     *Transfer Learning with Recurrent Neural Networks of Fuel Moisture Content: Extending from 10h fuels to 1h and 100h*
 
 ---
@@ -110,16 +104,17 @@ author_profile: true
 **16h00 - 18h30**  
 <!-- **Session 5 : AI for the prevention of extreme events and resource management** *(Chair: )*  
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.-->
--   **Roberta Baggio**,  <small>University of Corsica</small>
-    *TBA*
+-  16:00-16:40 **Romain Thoreau**  <small>CNES</small>   
+    *TBA* 
+-  16:45-17:25 **Dominik Laux**, <small>OroraTech GmbH</small>     
+    *FIRE-AID: AI-powered fire spread modeling and decision support*
 -  **Valentin Mercier**, <small>INP Toulouse</small>    
     *Fast Flood Prediction Using Graph Neural Networks: Application to the Têt River Basin*
--  **P3** TBD
--  **P4** TBD
--  **P5** TBD
-
-
-## Thursday 06/11: AI in weather forecasting
+-  **Karlee Zammit**,  <small>Natural Resources Canada</small>   
+    *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
+-  **Roberta Baggio**,  <small>University of Corsica</small>
+    *TBA*
+## Thursday 06/11: AI in Weather Forecasting
 
 ### Morning
 **9h00 - 12h00**  
