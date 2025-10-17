@@ -91,13 +91,13 @@ author_profile: true
 <!--**Session 4 : AI approaches for wildfire prediction** *(Chair: ?)*  
  The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.-->
 
-- 9:00-10:30 (PLENARY)   **Jean-Christophe Calvet**, <small>CNRM</small>    
+- 9:00-10:00 (PLENARY)   **Jean-Christophe Calvet**, <small>CNRM</small>    
       *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
-- 10:30-11:00   **Yann Baehr**, <small>CNRM</small>     
+- 10:00-10:40   **Yann Baehr**, <small>CNRM</small>     
     *Using artificial intelligence to monitor live fuel moisture content across France, based on a high resolution land surface analysis*
-- 11:00-11:30 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
+- 10:40-11:20 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
     *Transfer Learning with Recurrent Neural Networks of Fuel Moisture Content: Extending from 10h fuels to 1h and 100h*
-- 11:30-12:00  **Dominik Laux**, <small>OroraTech GmbH</small>     
+- 11:20-12:00  **Dominik Laux**, <small>OroraTech GmbH</small>     
     *FIRE-AID: AI-powered fire spread modeling and decision support*
 ---
 
@@ -105,13 +105,13 @@ author_profile: true
 **16h00 - 18h30**  
 <!-- **Session 5 : AI for the prevention of extreme events and resource management** *(Chair: )*  
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.-->
--  16:00-16:30 **Romain Thoreau**  <small>CNES</small>   
+-  16:00-16:40 **Romain Thoreau**  <small>CNES</small>   
     *TBA* 
--  16:30-17:00 **Valentin Mercier**, <small>INP Toulouse</small>    
+-  16:40-17:20 **Valentin Mercier**, <small>INP Toulouse</small>    
     *Fast Flood Prediction Using Graph Neural Networks: Application to the Têt River Basin*
--  17:00-17:30 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
+-  17:20-18:00 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
     *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
--  17:30-18:00 **Roberta Baggio**,  <small>University of Corsica</small>
+-  18:00-18:40 **Roberta Baggio**,  <small>University of Corsica</small>
     *TBA*
 ## Thursday 06/11: AI in Weather Forecasting
 
@@ -120,21 +120,20 @@ This session will focus on recent applications of AI and research perspectives r
 <!--**Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
  This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.-->
 
-- 09:00-10:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
-- 10:30-12:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
-    *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
-
+- 09:00-10:00 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
+- 10:00-10:40 **David Landry**, <small>INRIA Paris</small>     *TBA*
+- 10:40-11:20 **Julia Garcia-Cristobal** - PhD Candidate, *CNRM* : AI and hectometric downscaling
+- 11:20-12:00 **Kilian Pujol**, <small>LAERO</small> 
 ---
 
 ### Afternoon
 **16h00 - 19h00**  
 <!-- **Session 7 : Weather downscaling and nowcasting** *(Chair: ?)*  
 This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data. -->
-- 16:00-16:30 **David Landry**, <small>INRIA Paris</small>     *TBA*
-- 16:30-17:00 **Julia Garcia-Cristobal** - PhD Candidate, *CNRM* : AI and hectometric downscaling
-- 17:30-18:00 **Diego Grante** - PhD Candidate, *SPE* : AI for renewable energy forecasting
-- 18:00-18:30 **Kilian Pujol**, <small>LAERO</small> 
-- 18:30-19:00 **Roberta Baggio**,  <small>University of Corsica</small>
+- 16:00-17:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
+    *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
+- 17:00-17:40 **Diego Grante** - PhD Candidate, *SPE* : AI for renewable energy forecasting
+- 17:40-18:00 **Roberta Baggio**,  <small>University of Corsica</small>
 
 ## Friday 07/11: Urban resilience and perspectives
 
