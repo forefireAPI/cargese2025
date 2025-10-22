@@ -114,7 +114,8 @@ This session will focus on recent applications of AI and research perspectives r
 
 - 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
 - 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     *TBA*
-- 10:10-10:50 **Julia Garcia-Cristobal** - PhD Candidate, *CNRM* : AI and hectometric downscaling
+- 10:10-10:50 **Julia Garcia-Cristobal**, <small>CNRM</small>
+     *Statistical downscaling for urban meteorology at hectometric scale*
 - 10:50-11:30 **Kilian Pujol**, <small>LAERO</small> 
 ---
 
@@ -124,8 +125,9 @@ This session will focus on recent applications of AI and research perspectives r
 This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data. -->
 - 16:00-17:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
     *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
-- 17:00-17:40 **Diego Grante** - PhD Candidate, *SPE* : AI for renewable energy forecasting
-- 17:40-18:00 **Roberta Baggio**,  <small>University of Corsica</small>
+- 17:00-17:40 **Diego Grante** -  <small>Université de Corse</small>
+    *AI for renewable energy forecasting*
+- 17:40-18:00 **Roberta Baggio**,  <small>Université de Corse</small>
 
 ## Friday 07/11: Urban resilience and perspectives
 
