@@ -9,7 +9,7 @@ author_profile: true
 **9h00 - 12h00**  
 **Reception of guests and presentation of the scientific objectives of the conference**
 
-- 9:00-9:30 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS Université de Corse</small>  
+- 9:00-9:30 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
 
 - 9:30-10:30 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
 
@@ -35,7 +35,7 @@ author_profile: true
       *Towards a new series of tools to model wildfire danger and hazard in France*
 
 
-## Tuesday 04/11 : Experimental wildfire studies
+## Tuesday 04/11 : Multi-scale modelling of wildfires
 
 ### Morning
 **9h00 - 12h00**  
