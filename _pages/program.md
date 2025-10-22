@@ -51,6 +51,7 @@ author_profile: true
 - 11:30-12:10 **Mélanie Rochoux**, <small>Cerfacs</small>    
       *Modelling wildland fire behaviour and associated uncertainties using data assimilation*
 ---
+
 ### Afternoon
 **16h00 - 18h30**
 - 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>  
