@@ -25,10 +25,10 @@ author_profile: true
 - 15:30-16:10 **Cyrielle Denjean**, <small>CNRM</small>    
       *Smoke From European Wildfire Experiment (SILEX)*
 
-- 16:15-16:55 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya.</small>    
+- 16:15-16:55 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya</small>    
       *A summer with FCI-MTG*
 
-- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>    
+- 17:00-17:40 **Adrien Guyot**, <small>Bureau of Meteorology / University of Queensland</small>    
       *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
 - 17:45-18:25 **François Pimont**, <small>INRAE</small>    
@@ -58,9 +58,6 @@ author_profile: true
 
 - 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
   *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
-
-- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>    
-      *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
 - 17:45-18:25 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
