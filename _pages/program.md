@@ -19,11 +19,8 @@ author_profile: true
 - 10:40-11:20 **Misarah Abdelaziz**, <small>CSIRO</small>    
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
-- 11:20-11:40 **Jean-Baptiste Filippi / Roberta Baggio**, <small>CSIRO</small>    
-      *Large wildfire modelling with MesoNH-ForeFire*
-
-- 11:40-12:20 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
-      *Experimental characterization of aerial fuel and firebrand generation*
+- 11:20-12:00 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
+      *Experimental characterization of aerial fuels and firebrand generation*
 
 ---
 ### Afternoon
@@ -72,6 +69,9 @@ author_profile: true
 
 - 17:40-18:20 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
+
+- 18:20-18:40 **Jean-Baptiste Filippi / Roberta Baggio**, <small>CSIRO</small>    
+      *Large wildfire modelling with MesoNH-ForeFire*
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
