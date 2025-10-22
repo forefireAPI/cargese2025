@@ -9,15 +9,21 @@ author_profile: true
 **9h00 - 12h00**  
 **Reception of guests and presentation of the scientific objectives of the conference**
 
-- 9:00-9:30 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
+- 8:30-9:00 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
 
-- 9:30-10:30 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
+- 9:00-10:00 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
 
-- 10:35-11:05 **Alexander Filkov**, <small>The University of Melbourne</small>    
+- 10:00-10:40 **Alexander Filkov**, <small>The University of Melbourne</small>    
       *Innovative bushfire behaviour monitoring for future preparedness*
 
-- 11:05-11:45 **Misarah Abdelaziz**, <small>CSIRO</small>    
+- 10:40-11:20 **Misarah Abdelaziz**, <small>CSIRO</small>    
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
+
+- 11:20-11:40 **Jean-Baptiste Filippi / Roberta Baggio**, <small>CSIRO</small>    
+      *Large wildfires modelling with MesoNH-ForeFire*
+
+- 11:20-11:40 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
+      *Experimental characterization of aerial fuel and firebrand generation*
 
 ---
 ### Afternoon
@@ -40,16 +46,19 @@ author_profile: true
 ### Morning
 **9h00 - 12h00**  
 
-- 9:00-10:00 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
+- 8:30-9:30 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
 
-- 10:00-10:40 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
+- 9:30-10:10 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
         *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
 
-- 10:45-11:25 **Alberto Alonso Pinar**,  <small>Université de Corse</small>    
+- 10:10-10:50 **Alberto Alonso Pinar**,  <small>Université de Corse</small>    
         *Simulating firebrands with a coupled Fire-Atmosphere model* 
 
-- 11:30-12:10 **Mélanie Rochoux**, <small>Cerfacs</small>    
+- 10:50-11:30 **Mélanie Rochoux**, <small>Cerfacs</small>    
       *Modelling wildland fire behaviour and associated uncertainties using data assimilation* 
+
+- 11:30-12:00 **Jean-Baptiste Filippi**, <small>CNRS</small>    
+      *Hands-on usage of ForeFire* 
 
 ---
 
@@ -70,14 +79,16 @@ author_profile: true
 <!--**Session 4 : AI approaches for wildfire prediction** *(Chair: ?)*  
  The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.-->
 
-- 9:00-10:00 (PLENARY)   **Jean-Christophe Calvet**, <small>CNRM</small>    
+- 8:30-9:30 (PLENARY)   **Jean-Christophe Calvet**, <small>CNRM</small>    
       *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
-- 10:00-10:40   **Yann Baehr**, <small>CNRM</small>     
+- 9:30-10:10   **Yann Baehr**, <small>CNRM</small>     
     *Using artificial intelligence to monitor live fuel moisture content across France, based on a high resolution land surface analysis*
-- 10:40-11:20 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
+- 10:10-10:50 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
     *Transfer Learning with Recurrent Neural Networks of Fuel Moisture Content: Extending from 10h fuels to 1h and 100h*
-- 11:20-12:00  **Dominik Laux**, <small>OroraTech GmbH</small>     
+- 10:50-11:30  **Dominik Laux**, <small>OroraTech GmbH</small>     
     *FIRE-AID: AI-powered fire spread modeling and decision support*
+- 11:30-12:00  **Jean-Baptiste Filippi**, <small>CNRS</small>     
+    *METFLIX: streaming HD weather simulations as continuous video flux*
 ---
 
 ### Afternoon
@@ -101,10 +112,10 @@ This session will focus on recent applications of AI and research perspectives r
 <!--**Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
  This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.-->
 
-- 09:00-10:00 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
-- 10:00-10:40 **David Landry**, <small>INRIA Paris</small>     *TBA*
-- 10:40-11:20 **Julia Garcia-Cristobal** - PhD Candidate, *CNRM* : AI and hectometric downscaling
-- 11:20-12:00 **Kilian Pujol**, <small>LAERO</small> 
+- 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
+- 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     *TBA*
+- 10:10-10:50 **Julia Garcia-Cristobal** - PhD Candidate, *CNRM* : AI and hectometric downscaling
+- 10:50-11:30 **Kilian Pujol**, <small>LAERO</small> 
 ---
 
 ### Afternoon
