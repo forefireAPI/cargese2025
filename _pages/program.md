@@ -91,7 +91,9 @@ This session will focus on recent applications of AI and research perspectives r
 -  17:20-18:00 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
     *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
 -  18:00-18:40 **Roberta Baggio**,  <small>University of Corsica</small>
-    *TBA*
+    *TBA* 
+
+
 ## Thursday 06/11: AI in Weather Forecasting
 
 ### Morning
