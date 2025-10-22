@@ -22,13 +22,13 @@ author_profile: true
 ---
 ### Afternoon
 **15h30 - 18h30**
-- 15:30-16:10 **Cyrielle Denjean**, <small>CNRM</small>
+- 15:30-16:10 **Cyrielle Denjean**, <small>CNRM</small>    
       *Smoke From European Wildfire Experiment (SILEX)*
 
-- 16:15-16:55 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya.</small>
+- 16:15-16:55 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya.</small>    
       *A summer with FCI-MTG*
 
-- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>
+- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>    
       *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
 - 17:45-18:25 **François Pimont**, <small>INRAE</small>    
@@ -40,12 +40,12 @@ author_profile: true
 ### Morning
 **9h00 - 12h00**  
 
-- 9:00-10:00 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>  
+- 9:00-10:00 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
 
-- 10:00-10:40 **Tristan Roelofs**,  <small>*Wageningen University*</small>   
+- 10:00-10:40 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
         *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
 
-- 10:45-11:25 **Alberto Alonso Pinar**,  <small>Université de Corse</small>   
+- 10:45-11:25 **Alberto Alonso Pinar**,  <small>Université de Corse</small>    
         *Simulating firebrands with a coupled Fire-Atmosphere model* 
 
 - 11:30-12:10 **Mélanie Rochoux**, <small>Cerfacs</small>    
@@ -54,15 +54,15 @@ author_profile: true
 
 ### Afternoon
 **16h00 - 18h30**
-- 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>  
+- 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>    
 
-- 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>   
+- 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
   *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
 
-- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>
+- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>    
       *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
-- 17:45-18:25 **Mirko D'Andrea**,  <small>CIMA Foundation</small>     
+- 17:45-18:25 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
