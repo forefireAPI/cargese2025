@@ -49,7 +49,8 @@ author_profile: true
         *Simulating firebrands with a coupled Fire-Atmosphere model* 
 
 - 11:30-12:10 **Mélanie Rochoux**, <small>Cerfacs</small>    
-      *Modelling wildland fire behaviour and associated uncertainties using data assimilation*
+      *Modelling wildland fire behaviour and associated uncertainties using data assimilation* 
+
 ---
 
 ### Afternoon
