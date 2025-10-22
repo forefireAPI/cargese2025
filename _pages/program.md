@@ -3,87 +3,67 @@ permalink: /program/
 title: "Provisional Program"
 author_profile: true
 ---
-## Monday 03/11 : Coupled wildfire-atmosphere  dynamics
+## Monday 03/11 : Experimental wildfire studies
 
 ### Morning
 **9h00 - 12h00**  
 **Reception of guests and presentation of the scientific objectives of the conference**
 
-- Welcome and conference presentation
+- 9:00-9:30 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS Université de Corse</small>  
 
-<!-- **Session 1 : Fire dynamics and fire-atmosphere coupling** *(Chair: ?)*  -->
-<!-- This session will address the latest developments and numerical challenges in wildfire and wildfire-atmosphere coupled models.-->
+- 9:30-10:30 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
 
-- **Francesca Di Giuseppe**,  <small>*ECMWF*</small>   
-    *TBA* 
+- 10:35-11:05 **Alexander Filkov**, <small>The University of Melbourne</small>    
+      *Innovative bushfire behaviour monitoring for future preparedness*
 
-- **Adam Kochansky:**,  <small> *San Jose State University*</small>  
-    *TBA*
-
-- **Jean-Baptiste Filippi**,  <small>*CNRS, University of Corsica*</small>   
-    *TBA*
-- P4
-- P5
+- 11:05-11:45 **Misarah Abdelaziz**, <small>CSIRO</small>    
+      *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
 ---
 ### Afternoon
-**16h00 - 18h30**  
-<!-- **Session 1 (Continues): Fire dynamics and fire-atmosphere coupling** *(Chair: ?)* -->
-- **Mika Peace**,  <small>*Bureau of Meteorology*</small>   
-  *TBA*
+**15h30 - 18h30**
+- 15:30-16:10 **Cyrielle Denjean**, <small>CNRM</small>
+      *Smoke From European Wildfire Experiment (SILEX)*
 
-- **Tristan Roelofs**,  <small>*Wageningen University*</small>   
-  *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
+- 16:15-16:55 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya.</small>
+      *A summer with FCI-MTG*
 
-- **Fabian Brännström**,  <small>University of Wuppertal</small>   
-  *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
+- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>
+      *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
-- **Alberto Alonso-Pinar**,  <small>University of Corsica</small>   
-  *Simulating firebrands with a coupled Fire-Atmosphere model* 
-
-- **Ha Ninh Nguyen**,  <small>University of Corsica</small>   
-  *TBA* 
+- 17:45-18:25 **François Pimont**, <small>INRAE</small>    
+      *Towards a new series of tools to model wildfire danger and hazard in France*
 
 
-
-
-
-
-## Tuesday 04/11 : Modelling and Experimental Data
+## Tuesday 04/11 : Experimental wildfire studies
 
 ### Morning
 **9h00 - 12h00**  
-<!-- **Session 2 : Large wildfires and Extreme fire behaviour** *(Chair: ?)*   -->
-<!-- This session intends to explore how current numerical models and experimental methodologies can be used to analyze large wildfires and extreme fire behaviour events (tornados, spotting, deep pyroconvection etc).-->
 
-- **Alexander Filkov**, <small>University of Melbourne</small>     
-    *TBA*
+- 9:00-10:00 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>  
 
-- **Misarah Abdelaziz**,  <small>CSIRO</small>     
-    *TBA*
+- 10:00-10:40 **Tristan Roelofs**,  <small>*Wageningen University*</small>   
+        *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
 
-- **Mirko D'Andrea**,  <small>CIMA Foundation</small>     
-    *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
-- P4
-- P5
-- P6
+- 10:45-11:25 **Alberto Alonso Pinar**,  <small>Université de Corse</small>   
+        *Simulating firebrands with a coupled Fire-Atmosphere model* 
 
+- 11:30-12:10 **Mélanie Rochoux**, <small>Cerfacs</small>    
+      *Modelling wildland fire behaviour and associated uncertainties using data assimilation*
 ---
-
 ### Afternoon
-**16h00 - 18h30**  
-<!-- **Session 3 : Analysis and validation of experimental data** *(Chair: ?)*   -->
-<!-- This session will be focused on  experimental protocols and tools that can be used to verify and validate numerical models.-->
+**16h00 - 18h30**
+- 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>  
 
-- **Adrien Guyot**, <small>Bureau of Meteorology, The University of Queensland</small>    
-    *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
+- 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>   
+  *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
 
-- **Ronan Paugam**,  <small>Universitat Politècnica de Catalunya</small>    
-    *TBA*
+- 17:00-17:40 **Adrien Guyot**, <small>Universitat Politècnica de Catalunya.</small>
+      *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
-- P3
-- P4
-- P5
+- 17:45-18:25 **Mirko D'Andrea**,  <small>CIMA Foundation</small>     
+    *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
+
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
 ### Morning
