@@ -1,6 +1,6 @@
 ---
 permalink: /program/
-title: "Provisional Program"
+title: "Conference Program"
 author_profile: true
 ---
 ## Monday 03/11 : Experimental wildfire studies
