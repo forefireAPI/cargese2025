@@ -47,6 +47,7 @@ author_profile: true
 **9h00 - 12h00**  
 
 - 8:30-9:30 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
+        *AI applications in the modelling group at SJSU Wildfire Interdisciplinary Research Center*
 
 - 9:30-10:10 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
         *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
