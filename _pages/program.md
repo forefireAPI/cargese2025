@@ -20,24 +20,24 @@ author_profile: true
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
 - 11:20-11:40 **Jean-Baptiste Filippi / Roberta Baggio**, <small>CSIRO</small>    
-      *Large wildfires modelling with MesoNH-ForeFire*
+      *Large wildfire modelling with MesoNH-ForeFire*
 
-- 11:20-11:40 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
+- 11:40-12:20 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
       *Experimental characterization of aerial fuel and firebrand generation*
 
 ---
 ### Afternoon
-**15h30 - 18h30**
-- 15:30-16:10 **Cyrielle Denjean**, <small>CNRM</small>    
+**16h00 - 18h40**
+- 16:00-16:40 **Cyrielle Denjean**, <small>CNRM</small>    
       *Smoke From European Wildfire Experiment (SILEX)*
 
-- 16:15-16:55 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya</small>    
+- 16:40-17:20 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya</small>    
       *A summer with FCI-MTG*
 
-- 17:00-17:40 **Adrien Guyot**, <small>Bureau of Meteorology / University of Queensland</small>    
+- 17:20-18:00 **Adrien Guyot**, <small>Bureau of Meteorology / University of Queensland</small>    
       *Weather radar to provide intelligence on hazards associated to wildfire plumes and clouds*
 
-- 17:45-18:25 **François Pimont**, <small>INRAE</small>    
+- 18:00-18:40 **François Pimont**, <small>INRAE</small>    
       *Towards a new series of tools to model wildfire danger and hazard in France*
 
 
@@ -70,7 +70,7 @@ author_profile: true
 - 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
   *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
 
-- 17:45-18:25 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
+- 17:40-18:20 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
@@ -89,7 +89,8 @@ author_profile: true
 - 10:50-11:30  **Dominik Laux**, <small>OroraTech GmbH</small>     
     *FIRE-AID: AI-powered fire spread modeling and decision support*
 - 11:30-12:00  **Jean-Baptiste Filippi**, <small>CNRS</small>     
-    *METFLIX: streaming HD weather simulations as continuous video flux*
+    *METFLIX: streaming HD weather simulations as continuous video flux* 
+
 ---
 
 ### Afternoon
@@ -115,7 +116,7 @@ This session will focus on recent applications of AI and research perspectives r
 
 - 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
 - 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     *TBA*
-- 10:10-10:50 **Julia Garcia-Cristobal**, <small>CNRM</small>
+- 10:10-10:50 **Julia Garcia-Cristobal**, <small>CNRM</small>    
      *Statistical downscaling for urban meteorology at hectometric scale*
 - 10:50-11:30 **Kilian Pujol**, <small>LAERO</small> 
 ---
@@ -126,9 +127,13 @@ This session will focus on recent applications of AI and research perspectives r
 This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data. -->
 - 16:00-17:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
     *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
-- 17:00-17:40 **Diego Grante** -  <small>Université de Corse</small>
+- 17:00-17:40 **Diego Grante** -  <small>Université de Corse</small>     
     *AI for renewable energy forecasting*
 - 17:40-18:00 **Roberta Baggio**,  <small>Université de Corse</small>
+
+- 18:00-19:00 **Jean-Baptiste Filippi**,  <small>Université de Corse</small>
+     *Final words, conclusion and perspectives*
+
 
 ## Friday 07/11: Urban resilience and perspectives
 
