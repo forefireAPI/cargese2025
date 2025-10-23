@@ -150,7 +150,7 @@ This session will explore some recent and on-going applications of AI in nowcast
 **General-audience session, discussion with operational services**
 
 
-**Session 8 Conférence ouverte au public: Nouveaux outils de prévision**    
+**Conférence ouverte au public: Nouveaux outils de prévision**    
 
 **Speakers :**  
 - **Jean-Baptiste Filippi** -  Associate Professor, *CNRS, Université de Corse*
