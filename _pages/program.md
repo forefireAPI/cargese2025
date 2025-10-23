@@ -70,7 +70,7 @@ author_profile: true
 - 17:40-18:20 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
 
-- 18:20-18:40 **Jean-Baptiste Filippi / Roberta Baggio**, <small>CSIRO</small>    
+- 18:20-18:40 **Roberta Baggio**, <small>CSIRO</small>    
       *Large wildfire modelling with MesoNH-ForeFire*
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
@@ -103,8 +103,8 @@ This session will focus on recent applications of AI and research perspectives r
     *Fast Flood Prediction Using Graph Neural Networks: Application to the Têt River Basin*
 -  17:20-18:00 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
     *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
--  18:00-18:40 **Roberta Baggio**,  <small>University of Corsica</small>
-    *TBA* 
+-  18:00-18:40 **Sibo Cheng**,  <small>ENPC</small>
+    *Towards stochastic differentiable wildfire prediction with physics- and neural-network-based models*   
 
 
 ## Thursday 06/11: AI in Weather Forecasting
