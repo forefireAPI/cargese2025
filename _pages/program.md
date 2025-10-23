@@ -21,7 +21,7 @@ author_profile: true
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
 - 11:20-12:00 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
-      *Experimental characterization of aerial fuels and firebrand generation*
+      *A new framework to characterize firebrand generation and their 3D reconstruction model*
 
 ---
 ### Afternoon
