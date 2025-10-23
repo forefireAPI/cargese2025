@@ -118,7 +118,9 @@ This session will focus on recent applications of AI and research perspectives r
 - 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     *TBA*
 - 10:10-10:50 **Julia Garcia-Cristobal**, <small>CNRM</small>    
      *Statistical downscaling for urban meteorology at hectometric scale*
-- 10:50-11:30 **Kilian Pujol**, <small>LAERO</small> 
+- 10:50-11:30 **Kilian Pujol**, <small>LAERO</small>    
+
+
 ---
 
 ### Afternoon
