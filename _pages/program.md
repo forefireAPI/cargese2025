@@ -11,7 +11,8 @@ author_profile: true
 
 - 8:30-9:00 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
 
-- 9:00-10:00 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
+- 9:00-10:00 **Cyrielle Denjean**, <small>CNRM</small>    
+      *Smoke From European Wildfire Experiment (SILEX)*
 
 - 10:00-10:40 **Alexander Filkov**, <small>The University of Melbourne</small>    
       *Innovative bushfire behaviour monitoring for future preparedness*
@@ -25,8 +26,7 @@ author_profile: true
 ---
 ### Afternoon
 **16h00 - 18h40**
-- 16:00-16:40 **Cyrielle Denjean**, <small>CNRM</small>    
-      *Smoke From European Wildfire Experiment (SILEX)*
+- 15:40-16:40 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
 
 - 16:40-17:20 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya</small>    
       *A summer with FCI-MTG*
