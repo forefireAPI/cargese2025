@@ -70,8 +70,8 @@ author_profile: true
 - 17:40-18:20 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
 
-- 18:20-18:40 **Roberta Baggio**, <small>CSIRO</small>    
-      *Large wildfire modelling with MesoNH-ForeFire*
+- 18:20-18:40 **Roberta Baggio**, <small>Université de Corse</small>    
+      *Simulating Wildfires: An Operational Tool Integrating Atmospheric Dynamics*
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
@@ -131,7 +131,8 @@ This session will explore some recent and on-going applications of AI in nowcast
     *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
 - 17:00-17:40 **Diego Grante** -  <small>Université de Corse</small>     
     *AI for renewable energy forecasting*
-- 17:40-18:00 **Roberta Baggio**,  <small>Université de Corse</small>.     
+- 17:40-18:00 **Roberta Baggio**,  <small>Université de Corse</small>   
+    *Local wind speed forecasting at short time horizons based on Numerical Weather Prediction and observations from surrounding stations*   
 
 
 ## Friday 07/11: Urban resilience and perspectives
