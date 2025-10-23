@@ -103,7 +103,7 @@ This session will focus on recent applications of AI and research perspectives r
     *Fast Flood Prediction Using Graph Neural Networks: Application to the Têt River Basin*
 -  17:20-18:00 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
     *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
--  18:00-18:40 **Sibo Cheng**,  <small>ENPC</small>
+-  18:00-18:40 **Sibo Cheng**,  <small>ENPC</small>   
     *Towards stochastic differentiable wildfire prediction with physics- and neural-network-based models*   
 
 
