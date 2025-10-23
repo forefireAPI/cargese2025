@@ -98,7 +98,7 @@ author_profile: true
 <!-- **Session 5 : AI for the prevention of extreme events and resource management** *(Chair: )*  
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.-->
 -  16:00-16:40 **Romain Thoreau**  <small>CNES</small>   
-    *TBA* 
+    *Remote sensing and machine learning for fuel characterization in the context of wildfire simulation: Towards multisource and multimodal data analysis* 
 -  16:40-17:20 **Valentin Mercier**, <small>INP Toulouse</small>    
     *Fast Flood Prediction Using Graph Neural Networks: Application to the Têt River Basin*
 -  17:20-18:00 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
