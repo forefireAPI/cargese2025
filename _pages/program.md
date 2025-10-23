@@ -131,29 +131,27 @@ This session will explore some recent and on-going applications of AI in nowcast
     *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
 - 17:00-17:40 **Diego Grante** -  <small>Université de Corse</small>     
     *AI for renewable energy forecasting*
-- 17:40-18:00 **Roberta Baggio**,  <small>Université de Corse</small>
-
-- 18:00-19:00 **Jean-Baptiste Filippi**,  <small>Université de Corse</small>
-     *Final words, conclusion and perspectives*
+- 17:40-18:00 **Roberta Baggio**,  <small>Université de Corse</small>.     
 
 
 ## Friday 07/11: Urban resilience and perspectives
 
 ### Morning 
-**9h00 - 10h00**  
-**Session 8 Presentation of CNRS expert missions MPES:**
-Description to be completed.
-
-**Speakers :**  
-- **Valérie Lallemand-Breittenbach** - Director of the Mission for Scientific Expertise, *CNRS*
-- **Christine Bouisset** -  Associate Professor, *Université de Pau*
+**9h00 - 12h00**  
+**Identification of study cases**
+- 9:00-11:00 **Guests, everyone**,  <small>Université de Corse</small>     
+     *Data sharing, datasets descriptions, tutorials*
+- 11:00-12:00 **Jean-Baptiste Filippi**,  <small>Université de Corse</small>     
+     *Final words, conclusion and perspectives*
 
 ### Afternoon   
 <!-- ** Session 9 : -->
- **General-audience session, discussion with operational services**. 
-Presentation of key results to a wider audience, followed by an interactive discussion.
+**General-audience session, discussion with operational services**. 
+**Session 8 Conférence ouverte au public: Nouveaux outils de prévision**
 
-
+**Speakers :**  
+- **Jean-Baptiste Filippi** -  Associate Professor, *CNRS, Université de Corse*
+- **Jean-François Muzy** -  Associate Professor, *CNRS, Université de Corse*
 
 
 ---
