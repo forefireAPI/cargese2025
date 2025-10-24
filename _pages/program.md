@@ -114,8 +114,9 @@ This session will focus on recent applications of AI and research perspectives r
 <!--**Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
  This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.-->
 
-- 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>   *TBA*
-- 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     *TBA*
+- 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>  
+- 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     
+     *Probabilistic in-situ weather forecasting*.    
 - 10:10-10:50 **Julia Garcia-Cristobal**, <small>CNRM</small>    
      *Statistical downscaling for urban meteorology at hectometric scale*
 - 10:50-11:30 **Kilian Pujol**, <small>LAERO</small>    
