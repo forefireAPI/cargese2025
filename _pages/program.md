@@ -15,7 +15,7 @@ author_profile: true
       *Smoke From European Wildfire Experiment (SILEX)*
 
 - 10:00-10:40 **Alexander Filkov**, <small>The University of Melbourne</small>    
-      *Innovative bushfire behaviour monitoring for future preparedness*
+      *Advancing Wildfire Preparedness: Experimental Insights into Dynamic Fire Behaviours*
 
 - 10:40-11:20 **Misarah Abdelaziz**, <small>CSIRO</small>    
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
