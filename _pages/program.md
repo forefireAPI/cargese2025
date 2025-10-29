@@ -17,11 +17,14 @@ author_profile: true
 - 10:00-10:40 **Alexander Filkov**, <small>The University of Melbourne</small>    
       *Advancing Wildfire Preparedness: Experimental Insights into Dynamic Fire Behaviours*
 
-- 10:40-11:20 **Misarah Abdelaziz**, <small>CSIRO</small>    
+- 10:40-11:20 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
+      *A new framework to characterize firebrand generation and their 3D reconstruction model*
+
+- 11:20-12:00 **Misarah Abdelaziz**, <small>CSIRO</small>    
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
-- 11:20-12:00 **Ha-Ninh Nguyen**, <small>The University of Melbourne</small>    
-      *A new framework to characterize firebrand generation and their 3D reconstruction model*
+- 12:00-12:30 **Alexander Van Hout**, <small></small>
+      *Estimation of Burned Fuel Volumes in Heathland Ecosystems Using Multitemporal UAV LiDAR and Superpixel Classification*
 
 ---
 ### Afternoon
