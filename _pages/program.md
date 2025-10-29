@@ -9,7 +9,8 @@ author_profile: true
 **9h00 - 12h00**  
 **Reception of guests and presentation of the scientific objectives of the conference**
 
-- 8:30-9:00 Welcome and conference presentation   **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
+- 8:30-9:00 Welcome and conference presentation  
+      **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
 
 - 9:00-10:00 **Cyrielle Denjean**, <small>CNRM</small>    
       *Smoke From European Wildfire Experiment (SILEX)*
