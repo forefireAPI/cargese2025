@@ -27,7 +27,7 @@ author_profile: true
 - 11:20-12:00 **Misarah Abdelaziz**, <small>CSIRO</small>    
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
-- 12:00-12:30 **Alexander Van Hout**, <small></small>     
+- 12:00-12:30 **Alexander Van Hout**, <small>PXL University College</small>     
       *Quantifying Fuel Consumption in Heathland Ecosystems: Towards Multi-Scale Fuel Mapping Using Remote Sensing Data Fusion*
 
 ---
