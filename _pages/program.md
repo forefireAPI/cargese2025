@@ -3,6 +3,9 @@ permalink: /program/
 title: "Conference Program"
 author_profile: true
 ---
+
+
+
 ## Monday 03/11 : Experimental wildfire studies
 
 ### Morning
@@ -25,7 +28,7 @@ author_profile: true
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
 
 - 12:00-12:30 **Alexander Van Hout**, <small></small>     
-      *Estimation of Burned Fuel Volumes in Heathland Ecosystems Using Multitemporal UAV LiDAR and Superpixel Classification*
+      *Quantifying Fuel Consumption in Heathland Ecosystems: Towards Multi-Scale Fuel Mapping Using Remote Sensing Data Fusion*
 
 ---
 ### Afternoon
