@@ -74,7 +74,7 @@ author_profile: true
 - 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
   *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
 
-- 17:40-18:20 **Mirko D'Andrea**,  <small>CIMA Foundation</small>    
+- 17:40-18:20 **Mirko D'Andrea // Nicolò Perello**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
 
 - 18:20-18:40 **Roberta Baggio**, <small>Université de Corse</small>    
