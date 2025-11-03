@@ -71,7 +71,9 @@ author_profile: true
 ---
 
 ### Afternoon
-- 15:30-16:00  COFFEE BREAK
+- 15:30-16:00  COFFEE BREAK    
+
+
 **16h00 - 18h30**
 - 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>    
 
