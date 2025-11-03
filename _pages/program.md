@@ -45,7 +45,7 @@ author_profile: true
 ## Tuesday 04/11 : Multi-scale modelling of wildfires
 
 ### Morning
-**9h00 - 12h00**  
+**8h30 - 12h00**  
 
 - 8:30-9:30 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
         *AI applications in the modelling group at SJSU Wildfire Interdisciplinary Research Center*
