@@ -89,7 +89,7 @@ author_profile: true
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
 ### Morning
-**9h00 - 12h00**  
+**8h30 - 12h00**  
 <!--**Session 4 : AI approaches for wildfire prediction** *(Chair: ?)*  
  The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.-->
 
@@ -109,6 +109,7 @@ author_profile: true
 
 ### Afternoon
 - 15:30-16:00  COFFEE BREAK
+
 **16h00 - 18h30**  
 
 <!-- **Session 5 : AI for the prevention of extreme events and resource management** *(Chair: )*  
@@ -126,7 +127,7 @@ This session will focus on recent applications of AI and research perspectives r
 ## Thursday 06/11: AI in Weather Forecasting
 
 ### Morning
-**9h00 - 12h00**  
+**8h30 - 12h00**  
 <!--**Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
  This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.-->
 
@@ -143,7 +144,9 @@ This session will focus on recent applications of AI and research perspectives r
 ---
 
 ### Afternoon
-**16h00 - 19h00**  
+- 15:30-16:00  COFFEE BREAK
+
+**16h00 - 18h30**  
 <!-- **Session 7 : Weather downscaling and nowcasting** *(Chair: ?)*  
 This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data. -->
 - 16:00-17:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
