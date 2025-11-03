@@ -50,24 +50,28 @@ author_profile: true
 - 8:30-9:30 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
         *AI applications in the modelling group at SJSU Wildfire Interdisciplinary Research Center*
 
-- 9:30-10:10 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
-        *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
-
-- 10:10-10:50 **Alberto Alonso Pinar**,  <small>Université de Corse</small>    
-        *Simulating firebrands with a coupled Fire-Atmosphere model* 
-
-- 10:50-11:30 **Mélanie Rochoux**, <small>Cerfacs</small>    
+- 09:30-10:00 **Mélanie Rochoux**, <small>Cerfacs</small>    
       *Modelling wildland fire behaviour and associated uncertainties using data assimilation* 
 
-- 11:30-12:00 **Jean-Baptiste Filippi**, <small>CNRS</small>    
+- 10:00-10:20  COFFEE BREAK
+
+- 10:20-10:45 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
+        *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
+
+- 10:45-11:15 **Alberto Alonso Pinar**,  <small>Université de Corse</small>    
+        *Simulating firebrands with a coupled Fire-Atmosphere model* 
+
+- 11:15-11:45 **Jean-Baptiste Filippi**, <small>CNRS</small>    
       *Hands-on usage of ForeFire* 
 
-- 12:00-12:20 **Alexander Van Hout**, <small>PXL University College</small>     
+- 11:45-12:15 **Alexander Van Hout**, <small>PXL University College</small>     
       *Quantifying Fuel Consumption in Heathland Ecosystems: Towards Multi-Scale Fuel Mapping Using Remote Sensing Data Fusion*
+
 
 ---
 
 ### Afternoon
+- 15:30-16:00  COFFEE BREAK
 **16h00 - 18h30**
 - 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>    
 
@@ -91,6 +95,7 @@ author_profile: true
       *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
 - 9:30-10:10   **Yann Baehr**, <small>CNRM</small>     
     *Using artificial intelligence to monitor live fuel moisture content across France, based on a high resolution land surface analysis*
+- 10:00-10:20  COFFEE BREAK
 - 10:10-10:50 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
     *Transfer Learning with Recurrent Neural Networks of Fuel Moisture Content: Extending from 10h fuels to 1h and 100h*
 - 10:50-11:30  **Dominik Laux**, <small>OroraTech GmbH</small>     
@@ -101,7 +106,9 @@ author_profile: true
 ---
 
 ### Afternoon
+- 15:30-16:00  COFFEE BREAK
 **16h00 - 18h30**  
+
 <!-- **Session 5 : AI for the prevention of extreme events and resource management** *(Chair: )*  
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.-->
 -  16:00-16:40 **Romain Thoreau**  <small>AgroParisTech</small>   
@@ -124,6 +131,7 @@ This session will focus on recent applications of AI and research perspectives r
 - 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>  
 - 9:30-10:10 **David Landry**, <small>INRIA Paris</small>     
      *Probabilistic in-situ weather forecasting*.    
+- 10:00-10:20  COFFEE BREAK
 - 10:10-10:50 **Julia Garcia-Cristobal**, <small>CNRM</small>    
      *Statistical downscaling for urban meteorology at hectometric scale*
 - 10:50-11:30 **Kilian Pujol**, <small>LAERO</small>    
