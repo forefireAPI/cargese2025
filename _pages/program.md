@@ -102,8 +102,8 @@ author_profile: true
     *Transfer Learning with Recurrent Neural Networks of Fuel Moisture Content: Extending from 10h fuels to 1h and 100h*
 - 10:50-11:30  **Dominik Laux**, <small>OroraTech GmbH</small>     
     *FIRE-AID: AI-powered fire spread modeling and decision support*
-- 11:30-12:00  **Jean-Baptiste Filippi**, <small>CNRS</small>     
-    *METFLIX: streaming HD weather simulations as continuous video flux* 
+- 11:30-12:00  **Baggio-Filippi-Thoreau**, <small>CNRS</small>     
+    *Rate of spread emulation using a NN in a fire spread solver* 
 
 ---
 
@@ -139,7 +139,8 @@ This session will focus on recent applications of AI and research perspectives r
      *Statistical downscaling for urban meteorology at hectometric scale*
 - 10:50-11:30 **Kilian Pujol**, <small>LAERO</small>    
      *Improving prediction of heavy rainfall in Corsica with Neural-Networks*
-
+- 11:30-12:00  **Jean-Baptiste Filippi**, <small>CNRS</small>     
+    *METFLIX: streaming HD weather simulations as continuous video flux* 
 
 ---
 
