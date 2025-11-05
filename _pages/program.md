@@ -94,7 +94,7 @@ author_profile: true
  The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.-->
 
 - 8:30-9:30 (PLENARY)   **Jean-Christophe Calvet**, <small>CNRM</small>    
-      *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
+    *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
 - 9:30-10:10   **Yann Baehr**, <small>CNRM</small>     
     *Using artificial intelligence to monitor live fuel moisture content across France, based on a high resolution land surface analysis*
 - 10:00-10:20  COFFEE BREAK
@@ -116,11 +116,11 @@ author_profile: true
 This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.-->
 -  16:00-16:40 **Romain Thoreau**  <small>AgroParisTech</small>   
     *Remote sensing and machine learning for fuel characterization in the context of wildfire simulation: Towards multisource and multimodal data analysis* 
--  16:40-17:20 **Valentin Mercier**, <small>INP Toulouse</small>    
-    *Fast Flood Prediction Using Graph Neural Networks: Application to the Têt River Basin*
--  17:20-18:00 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
+-  16:40-17:00  **Jean-Baptiste Filippi**, <small>CNRS</small>     
+    *METFLIX: streaming HD weather simulations as continuous video flux and different compression methods for radar, lightning, hotspots, etc* 
+-  17:00-17:30 **Karlee Zammit**,  <small>Natural Resources Canada</small>   
     *Subseasonal Forecasting of Fire Weather Using Long Short-Term Memory Networks* 
--  18:00-18:40 **Sibo Cheng**,  <small>ENPC</small>   
+-  17:30-18:00 **Sibo Cheng**,  <small>ENPC</small>   
     *Towards stochastic differentiable wildfire prediction with physics- and neural-network-based models*   
 
 
@@ -139,8 +139,6 @@ This session will focus on recent applications of AI and research perspectives r
      *Statistical downscaling for urban meteorology at hectometric scale*
 - 10:50-11:30 **Kilian Pujol**, <small>LAERO</small>    
      *Improving prediction of heavy rainfall in Corsica with Neural-Networks*
-- 11:30-12:00  **Jean-Baptiste Filippi**, <small>CNRS</small>     
-    *METFLIX: streaming HD weather simulations as continuous video flux* 
 
 ---
 
@@ -158,21 +156,17 @@ This session will explore some recent and on-going applications of AI in nowcast
     *Local wind speed forecasting at short time horizons based on Numerical Weather Prediction and observations from surrounding stations*   
 
 
-## Friday 07/11: Urban resilience and perspectives
+## Friday 07/11: Perspectives
 
 ### Morning 
 **9h00 - 12h00**  
 **Identification of study cases**
 - 9:00-11:00 **Guests, everyone**,  <small>Université de Corse</small>     
      *Data sharing, datasets descriptions, tutorials*
-- 11:00-12:00 **Jean-Baptiste Filippi**,  <small>Université de Corse</small>     
-     *Final words, conclusion and perspectives*
 
 ### Afternoon   
 <!-- ** Session 9 : -->
-
 **General-audience session, discussion with operational services**
-
 
 **Conférence ouverte au public: Nouveaux outils de prévision**    
 
