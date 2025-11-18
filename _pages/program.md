@@ -4,7 +4,7 @@ title: "Conference Program"
 author_profile: true
 ---
 
-<img src="{{ site.baseurl }}/files/group.jpeg" alt="group" style="height: 300px" >
+<img src="{{ site.baseurl }}/files/group.jpeg" alt="group"  >
 
 ## Monday 03/11 : Experimental wildfire studies
 
