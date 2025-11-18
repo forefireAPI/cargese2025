@@ -34,7 +34,8 @@ author_profile: true
 ---
 ### Afternoon
 **16h00 - 18h40**
-- 15:40-16:40 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>    
+- 15:40-16:40 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>  
+    *A Data‑Driven Journey towards Fire Activity Prediction*  
         [▶️ Watch the video](https://www.youtube.com/watch?v=_aWURucrbPg)
 
 - 16:40-17:20 **Ronan Paugam**, <small>Universitat Politècnica de Catalunya</small>    
@@ -92,13 +93,13 @@ author_profile: true
    *▶️ Video Not available*
 - 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
   *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
-  [▶️ Watch the video](https://www.youtube.com/watch?v=r-voLQ2Za_U)
+   *▶️ Video Not available*
 - 17:40-18:20 **Mirko D'Andrea // Nicolò Perello**,  <small>CIMA Foundation</small>    
     *From Research to Operational Tool: PROPAGATOR as an Open-Source Celluar Automata Wildfire Simulator*
     [▶️ Watch the video](https://www.youtube.com/watch?v=7tsH3U4Vm1U)
 - 18:20-18:40 **Roberta Baggio**, <small>Université de Corse</small>    
-      *Simulating Wildfires: An Operational Tool Integrating Atmospheric Dynamics*
-      [▶️ Watch the video](https://www.youtube.com/watch?v=5-Y1uM9oJLw)
+      *Firecast: Towards an Operational Tool Integrating Atmospheric Dynamics*
+      [▶️ Watch the video](https://youtu.be/DB2qoOydKDY?si=OpWPFC1BTrbsCRml)
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
@@ -111,7 +112,7 @@ author_profile: true
     *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
     [▶️ Watch the video](https://www.youtube.com/watch?v=sSnKB5e12Oc)
 - 9:30-10:10   **Yann Baehr**, <small>CNRM</small>     
-        **Using artificial intelligence to monitor live fuel moisture content across France** 
+        *Using artificial intelligence to monitor live fuel moisture content across France*
     [▶️ Watch the video](https://www.youtube.com/watch?v=BRAWJWwI9bw)
 - 10:00-10:20  COFFEE BREAK
 - 10:10-10:50 **Jonathon Hirschi**,  <small>University of Colorado Denver</small>   
