@@ -4,16 +4,9 @@ title: "Conference Program"
 author_profile: true
 ---
 
-
+<img src="{{ site.baseurl }}/files/group.jpeg" alt="group" style="height: 300px" >
 
 ## Monday 03/11 : Experimental wildfire studies
-
-### Morning
-**9h00 - 12h00**  
-**Reception of guests and presentation of the scientific objectives of the conference**
-
-- 8:30-9:00 Welcome and conference presentation  
-      **Jean-Baptiste Filippi**, <small>CNRS, Université de Corse</small>  
 
 - 9:00-10:00 **Cyrielle Denjean**, <small>CNRM</small>    
       *The southern EUrop biomass BURning project*
@@ -31,9 +24,6 @@ author_profile: true
       *CSIRO Bushfire Behaviour and Suppression team and firebrand studies*
       [▶️ Watch the recording](https://www.youtube.com/watch?v=DZeuc8YZL7Y)
 
----
-### Afternoon
-**16h00 - 18h40**
 - 15:40-16:40 Plenary lecture   **Francesca di Giuseppe**, <small>ECMWF</small>  
     *A Data‑Driven Journey towards Fire Activity Prediction*  
         [▶️ Watch the recording](https://www.youtube.com/watch?v=_aWURucrbPg)
@@ -53,8 +43,6 @@ author_profile: true
 
 ## Tuesday 04/11 : Multi-scale modelling of wildfires
 
-### Morning
-**8h30 - 12h00**  
 
 - 8:30-9:30 Plenary lecture **Adam Kochanski**, <small>San Jose State University </small>    
         *AI applications in the modelling group at SJSU Wildfire Interdisciplinary Research Center*
@@ -62,8 +50,6 @@ author_profile: true
 - 09:30-10:00 **Mélanie Rochoux**, <small>Cerfacs</small>    
       *Modelling wildland fire behaviour using data assimilation* 
      [▶️ Watch the recording](https://www.youtube.com/watch?v=KNhAd_e2VNw)
-
-- 10:00-10:20  COFFEE BREAK
 
 - 10:20-10:45 **Tristan Roelofs**,  <small>*Wageningen University*</small>    
         *Wildfire-atmosphere interactions during the Santa Coloma de Queralt fire: the development of a fire-induced circulation*
@@ -82,13 +68,6 @@ author_profile: true
       [▶️ Watch the recording](https://www.youtube.com/watch?v=TsvKep0eSu0)
 
 
----
-
-### Afternoon
-- 15:30-16:00  COFFEE BREAK    
-
-
-**16h00 - 18h30**
 - 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>    
    *▶️ Video Not available*
 - 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
@@ -103,10 +82,6 @@ author_profile: true
 
 ## Wednesday 05/11: Machine Learning Approaches for Wildfire and Other Natural Risks
 
-### Morning
-**8h30 - 12h00**  
-<!--**Session 4 : AI approaches for wildfire prediction** *(Chair: ?)*  
- The session will be dedicated to discussing recent applications and innovations pathways in the prevention of wildfire risk through AI.-->
 
 - 8:30-9:30 (PLENARY)   **Jean-Christophe Calvet**, <small>CNRM</small>    
     *Monitoring vegetation's response to drought by assimilating in situ and satellite data*
@@ -124,15 +99,7 @@ author_profile: true
 - 11:30-12:00  **Baggio-Filippi-Thoreau**, <small>CNRS</small>     
     *Rate of spread emulation using a NN in a fire spread solver* 
 
----
 
-### Afternoon
-- 15:30-16:00  COFFEE BREAK
-
-**16h00 - 18h30**  
-
-<!-- **Session 5 : AI for the prevention of extreme events and resource management** *(Chair: )*  
-This session will focus on recent applications of AI and research perspectives regarding the prediction of extreme weather events and improved risk prevention.-->
 -  16:00-16:40 **Romain Thoreau**  <small>AgroParisTech</small>   
     *Remote sensing and machine learning for fuel characterization in the context of wildfire simulation: Towards multisource and multimodal data analysis* 
     [▶️ Watch the recording](https://www.youtube.com/watch?v=qb4aP3h0MC4)
@@ -149,10 +116,6 @@ This session will focus on recent applications of AI and research perspectives r
 
 ## Thursday 06/11: AI in Weather Forecasting
 
-### Morning
-**8h30 - 12h00**  
-<!--**Session 6 : AI innovations in weather Forecasting** *(Chair: ?)*  
- This session aims to provide a global perspective on the recent rise of AI methods in various aspects of weather forecasting.-->
 
 - 8:30-9:30 (PLENARY) **Laure Raynaud**, <small>Météo-France</small>  
     *AI for weather forecasting: state of the art*
@@ -168,14 +131,6 @@ This session will focus on recent applications of AI and research perspectives r
      *Improving prediction of heavy rainfall in Corsica with Neural-Networks*
      [▶️ Watch the recording](https://www.youtube.com/watch?v=5aZidDyrXvc)
 
----
-
-### Afternoon
-- 15:30-16:00  COFFEE BREAK
-
-**16h00 - 18h30**  
-<!-- **Session 7 : Weather downscaling and nowcasting** *(Chair: ?)*  
-This session will explore some recent and on-going applications of AI in nowcasting and super-resolution of meteorological data. -->
 - 16:00-17:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
     *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
      *▶️ Video Not available*
@@ -189,21 +144,24 @@ This session will explore some recent and on-going applications of AI in nowcast
 
 ## Friday 07/11: Perspectives
 
-### Morning 
-**9h00 - 12h00**  
-**Identification of study cases**
-- 9:00-11:00 **Guests, everyone**,  <small>Université de Corse</small>     
-     *Data sharing, datasets descriptions, tutorials*
-
-### Afternoon   
-<!-- ** Session 9 : -->
-**General-audience session, discussion with operational services**
-
-**Conférence ouverte au public: Nouveaux outils de prévision**    
-
-**Speakers :**  
-- **Jean-Baptiste Filippi** -  Associate Professor, *CNRS, Université de Corse*
-- **Jean-François Muzy** -  Associate Professor, *CNRS, Université de Corse*
+ *▶️ Video Not available*
 
 
 ---
+
+## Some pictures
+
+<center>
+<img src="{{ site.baseurl }}/files/1.jpeg" alt="picture 1" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/2.jpeg" alt="picture 2" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/3.jpeg" alt="picture 3" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/4.jpeg" alt="picture 4" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/5.jpeg" alt="picture 5" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/6.jpeg" alt="picture 6" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/7.jpeg" alt="picture 7" style="height: 200px" >
+<img src="{{ site.baseurl }}/files/9.jpeg" alt="picture 9" style="height: 200px" >
+
+<video src="{{ site.baseurl }}/files/8.mp4" controls style="max-width: 100%; height: auto; margin-top: 10px;">
+Your browser does not support the video tag.
+</video>
+</center>
