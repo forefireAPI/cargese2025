@@ -69,7 +69,7 @@ author_profile: true
 
 
 - 16:00-17:00 Plenary lecture **Mika Peace**, <small>Bureau of Meteorology</small>    
-   *▶️ Video Not available*
+   [▶️ Watch the recording](https://youtu.be/84KrV2AxgBY?si=IKv27bpVRX9gSuff)
 - 17:00-17:40 **Fabian Brännström**,  <small>University of Wuppertal</small>    
   *Wildfire Modeling – Importance of Highly-resolved Vegetation Structures* 
    [▶️ Watch the recording](https://youtu.be/1NBgowP33oo?si=cNPst-DO2jPsX5Xy)
