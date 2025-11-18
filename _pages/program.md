@@ -179,7 +179,6 @@ This session will explore some recent and on-going applications of AI in nowcast
 - 16:00-17:00 (PLENARY) **Sylvain Cros**, <small>LMD Polytechnique</small>   
     *Surface solar irradiance forecasting using deep learning on geostationary meteorological satellite images*
      *▶️ Video Not available*
-    [▶️ Watch the recording](https://www.youtube.com/watch?v=xeFZBtoJaGY)
 - 17:00-17:40 **Diego Grante** -  <small>Université de Corse</small>     
     *Challenges of Transfer Learning in Wind Speed Forecasting: Understanding Negative Transfer Effects*
     [▶️ Watch the recording](https://www.youtube.com/watch?v=r-voLQ2Za_U)
